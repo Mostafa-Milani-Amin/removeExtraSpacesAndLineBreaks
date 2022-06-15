@@ -1,0 +1,1 @@
+const removeExtraSpacesAndLineBreaks = str => str.replace(/\s+/g, " ").trim();
